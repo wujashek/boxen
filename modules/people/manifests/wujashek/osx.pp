@@ -1,4 +1,4 @@
-class people::msiwak::osx {
+class people::wujashek::osx {
 
   require iterm2::dev
 
